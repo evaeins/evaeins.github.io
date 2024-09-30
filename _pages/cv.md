@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Karlsruhe Institute of Technology, 2023-now
+* M.S. in New York University, 2021-2023
+* B.S. in Nankai University, 2017-2021
 
 Work experience
 ======
@@ -34,31 +34,20 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Teaching Assistant, Statistics for Data Analysts, New York University 09/2022 – 01/2023 
+* Teaching Assistant, Business German, Nankai University 02/2020 - 01/2021
+*Teaching Assistant, College English, Nankai University 02/2019 – 06/2019
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
